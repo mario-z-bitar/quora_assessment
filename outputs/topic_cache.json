@@ -1,0 +1,422 @@
+{
+  "584a0fcdd83c15af158644c0f558c296eace408422c7ac4be1b19d02d9cd8126": {
+    "topic": "smartphone_purchase_advice",
+    "intent": "generative",
+    "confidence": 0.92,
+    "rationale": "seeking recommendations and personalized guidance for decision-making",
+    "raw_response": "```json\n{\n  \"topic\": \"smartphone purchase advice\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.92,\n  \"rationale\": \"seeking recommendations and personalized guidance for decision-making\"\n}\n```"
+  },
+  "b0c633ec8fc005058475abd41d8fc5dd0dbaa9004c8516168e421540e2390631": {
+    "topic": "meeting_conflict_management",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeks practical strategies for handling tense architectural project meetings",
+    "raw_response": "```json\n{\n  \"topic\": \"meeting conflict management\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeks practical strategies for handling tense architectural project meetings\"\n}\n```"
+  },
+  "ab7afc536aea3fac4aa986df391d26aaea81054a77190a7dcb76608193059689": {
+    "topic": "road_trip_playlist",
+    "intent": "generative",
+    "confidence": 0.92,
+    "rationale": "User seeks creative system design and solutions, not just facts",
+    "raw_response": "```json\n{\n  \"topic\": \"Road trip playlist\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeks creative system design and solutions, not just facts\"\n}\n```"
+  },
+  "d61a89bc734ddb191318aeede5db9722710044cd9783ea8ec09e158969af4ac8": {
+    "topic": "social_media_emotional_impact",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "user seeking explanations about why social media affects emotions and how algorithms work",
+    "raw_response": "```json\n{\n  \"topic\": \"social media emotional impact\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"user seeking explanations about why social media affects emotions and how algorithms work\"\n}\n```"
+  },
+  "7479ac110c778b998455848d0e24551053d84d1866361d2c74ae3d9175f364aa": {
+    "topic": "open_office_focus_strategies",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeks specific advice and app recommendations for concentration challenges",
+    "raw_response": "```json\n{\n  \"topic\": \"Open office focus strategies\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeks specific advice and app recommendations for concentration challenges\"\n}\n```"
+  },
+  "7eacddb4824a7328732b8401cb28cbdec74ce8fae69d7ab372bd10978b3c697e": {
+    "topic": "persuasive_design_ethics",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User researching article, asking informational questions about principles, frameworks, and resources",
+    "raw_response": "```json\n{\n  \"topic\": \"Persuasive Design Ethics\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User researching article, asking informational questions about principles, frameworks, and resources\"\n}\n```"
+  },
+  "b30d4e0ee43239b0b95642e5de2f87c5edcfd6820321cd9c2a0ac7ab7dded5ac": {
+    "topic": "remote_work_noise_solutions",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking specific product recommendations and technical guidance for solving work-from-home audio issues",
+    "raw_response": "```json\n{\n  \"topic\": \"remote work noise solutions\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking specific product recommendations and technical guidance for solving work-from-home audio issues\"\n}\n```"
+  },
+  "4d43c55b62433f14d4d2aef727e87b755b34bbfa60579b1b6ab6a090fa221aa0": {
+    "topic": "printer_repair_hobby",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "Retiree seeking information about printer maintenance, repair learning, costs, and viability as hobby",
+    "raw_response": "```json\n{\n  \"topic\": \"printer repair hobby\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"Retiree seeking information about printer maintenance, repair learning, costs, and viability as hobby\"\n}\n```"
+  },
+  "f35e0a91f4d3ec36ce15259671a0b8b6efe9b2d419b9a3ccebfc7dccd2d72c71": {
+    "topic": "video_meeting_small_talk",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking specific advice and guidance on conversation strategies",
+    "raw_response": "```json\n{\n  \"topic\": \"Video Meeting Small Talk\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking specific advice and guidance on conversation strategies\"\n}\n```"
+  },
+  "a30dc31d4eeed7e7f76ca6b3589aff2ee287d3f4e90c6762cd0c3abe4863b5c5": {
+    "topic": "notification_management",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "user seeking strategies and solutions for managing distractions",
+    "raw_response": "```json\n{\n  \"topic\": \"notification management\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user seeking strategies and solutions for managing distractions\"\n}\n```"
+  },
+  "af2d5f3fcab97f3ee7b82f15006e6af1080d6cc46035aaee68fa1d6b008981f4": {
+    "topic": "workspace_lighting_productivity",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User systematically asks informational questions about lighting color temperature effects, research, recommendations, and practical implementation for workplace productivity",
+    "raw_response": "```json\n{\n  \"topic\": \"Workspace Lighting Productivity\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User systematically asks informational questions about lighting color temperature effects, research, recommendations, and practical implementation for workplace productivity\"\n}\n```"
+  },
+  "1ad895125f4deda1ac03edb48c77edf00fd8267b3b936696eebd801dcf830f95": {
+    "topic": "coordination_overhead_paradox",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "user asks explanatory questions about concept, examples, and solutions",
+    "raw_response": "```json\n{\n  \"topic\": \"coordination overhead paradox\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"user asks explanatory questions about concept, examples, and solutions\"\n}\n```"
+  },
+  "b3647b0073083899bef38680de2ead921cf4367a88d77eb11a6c08d80c64f61a": {
+    "topic": "weather_forecasting_accuracy",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "user seeking explanation of weather prediction reliability and mechanics",
+    "raw_response": "```json\n{\n  \"topic\": \"weather forecasting accuracy\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user seeking explanation of weather prediction reliability and mechanics\"\n}\n```"
+  },
+  "61b83c7e60443cd571d8b3322df57ebaf6f4053e2e1ca8b34f2f05adf1ece91b": {
+    "topic": "technical_debt_management",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User asking explanatory questions about technical debt strategies and tools",
+    "raw_response": "```json\n{\n  \"topic\": \"Technical Debt Management\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User asking explanatory questions about technical debt strategies and tools\"\n}\n```"
+  },
+  "659b6dc37dc463f230ea6eb4c952cbd06852d9938fd43bd93254adf9e7fb448a": {
+    "topic": "printer_malfunctions",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking technical explanation for perceived printer behavior patterns",
+    "raw_response": "```json\n{\n  \"topic\": \"Printer Malfunctions\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking technical explanation for perceived printer behavior patterns\"\n}\n```"
+  },
+  "7cfbf7af12b17062ee9a091a32ba7acbf324c39c4606d3d42cd9d5e35dccd8be": {
+    "topic": "navigating_undocumented_codebase",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User seeks practical advice and strategies for understanding new codebase",
+    "raw_response": "```json\n{\n  \"topic\": \"navigating undocumented codebase\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeks practical advice and strategies for understanding new codebase\"\n}\n```"
+  },
+  "8e528e4130179d36f4df5a5a4a17e98c05b6b0a9e69ae26ace1ffd085237d0e1": {
+    "topic": "dating_app_etiquette",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking practical advice and tips for navigating dating apps",
+    "raw_response": "```json\n{\n  \"topic\": \"dating app etiquette\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking practical advice and tips for navigating dating apps\"\n}\n```"
+  },
+  "9d7a30d4c0869122b95747ec3dcb97dd0c1cac74d6da576bd24c0012500bac1e": {
+    "topic": "supervillain_teaching_advice",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User seeks creative advice for fictional teaching scenario; assistant generates strategies and tips",
+    "raw_response": "```json\n{\n  \"topic\": \"Supervillain Teaching Advice\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeks creative advice for fictional teaching scenario; assistant generates strategies and tips\"\n}\n```"
+  },
+  "0069a0e47ff183a9b701802f2d2fcecc9dd402ea94a7e116e88bf7d96a7f8629": {
+    "topic": "microservice_dependency_management",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking solutions and best practices for technical problem",
+    "raw_response": "```json\n{\n  \"topic\": \"Microservice Dependency Management\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking solutions and best practices for technical problem\"\n}\n```"
+  },
+  "cdaf6469797abc41a0103d8cd56321135938c7fa6c4b58f0a5e0a131d2b00d42": {
+    "topic": "username_psychology",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User asks questions to understand psychological principles behind username selection",
+    "raw_response": "```json\n{\n  \"topic\": \"username psychology\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User asks questions to understand psychological principles behind username selection\"\n}\n```"
+  },
+  "5b1ed412768434cc098789ad0ed85700a5b0c0f55da88be374791ae563df9cd7": {
+    "topic": "distributed_systems_analogy",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User requested creative help developing restaurant chain analogy for presentation",
+    "raw_response": "```json\n{\n  \"topic\": \"distributed systems analogy\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User requested creative help developing restaurant chain analogy for presentation\"\n}\n```"
+  },
+  "1ddb67513970473bf550fdec2cf8a75f4d77a0a3db468eac4586070a69330458": {
+    "topic": "workspace_ventilation_design",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User systematically asks technical questions about ventilation principles, metrics, systems, and best practices to gather comprehensive knowledge",
+    "raw_response": "```json\n{\n  \"topic\": \"workspace ventilation design\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User systematically asks technical questions about ventilation principles, metrics, systems, and best practices to gather comprehensive knowledge\"\n}\n```"
+  },
+  "34f840d87bcbf4e0a67a2a59b3ce30ed17d20f250bd4d3c79172d4cf639fd3a4": {
+    "topic": "social_media_boundaries",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User seeking advice and strategies for setting boundaries, not just information",
+    "raw_response": "```json\n{\n  \"topic\": \"Social Media Boundaries\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeking advice and strategies for setting boundaries, not just information\"\n}\n```"
+  },
+  "a5316a6374327d746995018ba2ba1e6602282e0d2005f3eb1f079421255226c6": {
+    "topic": "resource_allocation_fairness",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User systematically gathering academic information about mathematical models for equitable digital resource sharing",
+    "raw_response": "```json\n{\n  \"topic\": \"resource allocation fairness\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User systematically gathering academic information about mathematical models for equitable digital resource sharing\"\n}\n```"
+  },
+  "bba67377db6eb3b26033956c064e99d90de7dd5a9425790ae067af1daf4c1599": {
+    "topic": "historical_mediation_hobby",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking information about starting a new retirement hobby",
+    "raw_response": "```json\n{\n  \"topic\": \"Historical Mediation Hobby\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking information about starting a new retirement hobby\"\n}\n```"
+  },
+  "56ab375edc6f989c3104f0c4e42f54a6198a2a4d6387e7ee2b15c1aac1a18748": {
+    "topic": "small_apartment_design",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User seeking professional advice and specific techniques for spatial design",
+    "raw_response": "```json\n{\n  \"topic\": \"Small Apartment Design\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeking professional advice and specific techniques for spatial design\"\n}\n```"
+  },
+  "9e02fb06c6ef0f0d71b88ee2d75f6d5bc9c6ba41c9b41ab68812a6fe451a86e3": {
+    "topic": "cdn_explanation",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User seeks creative analogy to teach CDNs, not just facts",
+    "raw_response": "```json\n{\n  \"topic\": \"CDN explanation\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeks creative analogy to teach CDNs, not just facts\"\n}\n```"
+  },
+  "1d9930c7667c01862b2752c511974941555399cb42dd62383614adf408209759": {
+    "topic": "error_message_ux_psychology",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User researching psychological principles and best practices for error message design with academic intent",
+    "raw_response": "```json\n{\n  \"topic\": \"error message UX psychology\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User researching psychological principles and best practices for error message design with academic intent\"\n}\n```"
+  },
+  "3b273fcd339d6b5f60572d41e176cfc7f3300a14888b882267133a7c79ce2230": {
+    "topic": "bookmark_organization",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking systematic strategies and tools for managing research bookmarks",
+    "raw_response": "```json\n{\n  \"topic\": \"Bookmark Organization\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking systematic strategies and tools for managing research bookmarks\"\n}\n```"
+  },
+  "4a07110ce79e8b8460dfd5f90a0913a9a3980faae0efe3275c698f420bfe1030": {
+    "topic": "video_call_connectivity",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "user systematically explores technical causes and solutions for video call performance issues",
+    "raw_response": "```json\n{\n  \"topic\": \"video call connectivity\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user systematically explores technical causes and solutions for video call performance issues\"\n}\n```"
+  },
+  "f487b351e8a56bc69f78d4c9b1223f27e1657002d9eb521a9cfb1b63b96dcae2": {
+    "topic": "music_art_interaction",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeks expert knowledge about music's emotional impact on visual art for practical application",
+    "raw_response": "```json\n{\n  \"topic\": \"music art interaction\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeks expert knowledge about music's emotional impact on visual art for practical application\"\n}\n```"
+  },
+  "25445ad48dcfe9f7fb427e525c812ab7c59c4c971e81c5b712bc92eee0919854": {
+    "topic": "holiday_tech_gifts",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking practical advice and strategies for managing family gift-giving",
+    "raw_response": "```json\n{\n  \"topic\": \"Holiday Tech Gifts\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking practical advice and strategies for managing family gift-giving\"\n}\n```"
+  },
+  "310d99f3167a85540f07dd276b2ca8b92c475d0ea706dea8fe9ba87a7c929dbe": {
+    "topic": "humorous_superhero_creation",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User requests creative ideas for fictional character development",
+    "raw_response": "```json\n{\n  \"topic\": \"humorous superhero creation\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User requests creative ideas for fictional character development\"\n}\n```"
+  },
+  "ef618e95f48ae1214e4a4b01ae6f4e015cb936f5025f00f57ce4b2d750ae4f4b": {
+    "topic": "product_design_philosophy",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User systematically researching customization vs defaults trade-offs through structured questions",
+    "raw_response": "```json\n{\n  \"topic\": \"Product Design Philosophy\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User systematically researching customization vs defaults trade-offs through structured questions\"\n}\n```"
+  },
+  "a88efcb173f5fa54496ebec4771e8dc46d55f70ec606cedb8224efed3b413515": {
+    "topic": "chore_rotation_algorithm",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "user seeking mathematical/algorithmic approaches to design problem",
+    "raw_response": "```json\n{\n  \"topic\": \"chore rotation algorithm\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"user seeking mathematical/algorithmic approaches to design problem\"\n}\n```"
+  },
+  "75352623cfc2c1df787cca820608d0df0edf0244966b80a03797c03b0fc98bcc": {
+    "topic": "cable_tangling_physics",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User seeks scientific explanation for cable tangling behavior",
+    "raw_response": "```json\n{\n  \"topic\": \"Cable Tangling Physics\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeks scientific explanation for cable tangling behavior\"\n}\n```"
+  },
+  "26a35b51cc2f7252ab5d5f682bb8a1f2542632388131d3dbf6e7bea34fad2c08": {
+    "topic": "technical_debt_presentation",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User seeks advice and content creation for executive presentation, not just information lookup",
+    "raw_response": "```json\n{\n  \"topic\": \"technical debt presentation\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeks advice and content creation for executive presentation, not just information lookup\"\n}\n```"
+  },
+  "5a0d81d08190633b4d21cff636226bd99fed86333f8f61ecde48592e5f3e0029": {
+    "topic": "cloud_infrastructure_assessment",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking technical guidance and tool recommendations for analysis",
+    "raw_response": "```json\n{\n  \"topic\": \"cloud infrastructure assessment\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking technical guidance and tool recommendations for analysis\"\n}\n```"
+  },
+  "c5c3966263721c6ccdf11ee130ae6083eeca3e2cd43f7a571b609c2dfdbf9602": {
+    "topic": "loading_animation_design",
+    "intent": "generative",
+    "confidence": 0.85,
+    "rationale": "seeking design advice and recommendations, not just facts",
+    "raw_response": "```json\n{\n  \"topic\": \"loading animation design\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.85,\n  \"rationale\": \"seeking design advice and recommendations, not just facts\"\n}\n```"
+  },
+  "94690fb3d80b7dd17af60e0aa836e0ea18fb7fc64229156254581734c0503fff": {
+    "topic": "video_meeting_fatigue",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking practical solutions and recommendations for managing multiple video platforms",
+    "raw_response": "```json\n{\n  \"topic\": \"Video Meeting Fatigue\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking practical solutions and recommendations for managing multiple video platforms\"\n}\n```"
+  },
+  "20d689c31eb1772daafa249ade474af6df7b9f4074f479d22286a00f7f41fa7e": {
+    "topic": "ai_counseling_therapy",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User systematically explores therapeutic approaches for robot existential anxiety through structured questions",
+    "raw_response": "```json\n{\n  \"topic\": \"AI counseling therapy\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User systematically explores therapeutic approaches for robot existential anxiety through structured questions\"\n}\n```"
+  },
+  "ba036a846adee7fc02e595126259e0554ab5990a660c58b2b0ed581a0748d2b6": {
+    "topic": "pizza_slice_geometry",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User asking questions about mathematical principles for pizza division",
+    "raw_response": "```json\n{\n  \"topic\": \"Pizza slice geometry\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User asking questions about mathematical principles for pizza division\"\n}\n```"
+  },
+  "b5051fc13dd87571e7d412a418d3520c641b2ef621736f69152ceadab7a503e8": {
+    "topic": "coffee_rituals_business",
+    "intent": "generative",
+    "confidence": 0.85,
+    "rationale": "User seeking business ideas and insights about cultural coffee traditions, not just factual information",
+    "raw_response": "```json\n{\n  \"topic\": \"coffee rituals business\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking business ideas and insights about cultural coffee traditions, not just factual information\"\n}\n```"
+  },
+  "47da72feb42e4c26c6dbc6e8a3cf49196cfb7dff4852c67202473766d6e57e13": {
+    "topic": "ui_animation_psychology",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeks knowledge about animation principles, psychological impacts, and best practices",
+    "raw_response": "```json\n{\n  \"topic\": \"UI animation psychology\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeks knowledge about animation principles, psychological impacts, and best practices\"\n}\n```"
+  },
+  "a29817bbed956a74e5229c9639ad4e8ef28d80eb844e0777740470d34f4453d4": {
+    "topic": "media_literacy_lesson",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "user creating lesson plan with activity ideas",
+    "raw_response": "```json\n{\n  \"topic\": \"media literacy lesson\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user creating lesson plan with activity ideas\"\n}\n```"
+  },
+  "a8764f2ab367171e2569f383dc07f49384033780d5e2297c8c78f34721b4eabf": {
+    "topic": "incident_response_communication",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "Deep exploration of communication strategies, best practices, research areas, and professional development in incident response field",
+    "raw_response": "```json\n{\n  \"topic\": \"Incident Response Communication\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"Deep exploration of communication strategies, best practices, research areas, and professional development in incident response field\"\n}\n```"
+  },
+  "d5df0caa0632ec2fc8c2089118955a6a03a4cedc0f2b018365fd6357e5ff78ae": {
+    "topic": "workspace_scent_optimization",
+    "intent": "generative",
+    "confidence": 0.85,
+    "rationale": "User seeks implementation strategy after gathering facts",
+    "raw_response": "```json\n{\n  \"topic\": \"Workspace Scent Optimization\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeks implementation strategy after gathering facts\"\n}\n```"
+  },
+  "6c712dc6bfc5fe9051144ffc4669a98b8946d3914e78265bb8c3a3801782896d": {
+    "topic": "elevator_social_dynamics",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User systematically explores psychological, cultural, and behavioral aspects of elevator interactions through probing questions",
+    "raw_response": "```json\n{\n  \"topic\": \"Elevator Social Dynamics\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User systematically explores psychological, cultural, and behavioral aspects of elevator interactions through probing questions\"\n}\n```"
+  },
+  "9035eb39357a505e4a769ef745f2954ad0827be25c180188aacd393c58d3b376": {
+    "topic": "houseplant_care_advice",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "user seeking troubleshooting help and practical guidance for plant care challenges",
+    "raw_response": "```json\n{\n  \"topic\": \"houseplant care advice\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user seeking troubleshooting help and practical guidance for plant care challenges\"\n}\n```"
+  },
+  "2486342065f6b9d989250a4cf3ef83a9e8f13b7d62d23bf76b7888a2733b1561": {
+    "topic": "comedy_sketch_brainstorming",
+    "intent": "generative",
+    "confidence": 0.95,
+    "rationale": "User seeking creative collaboration to develop comedy content about sentient printers",
+    "raw_response": "```json\n{\n  \"topic\": \"comedy sketch brainstorming\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeking creative collaboration to develop comedy content about sentient printers\"\n}\n```"
+  },
+  "1d26bc6c5884cd2e14aaa2771df5ffd76d86534add093309ad195e458f9b8c5c": {
+    "topic": "grocery_list_tips",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "user seeking advice and strategies for organized shopping",
+    "raw_response": "```json\n{\n  \"topic\": \"grocery list tips\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"user seeking advice and strategies for organized shopping\"\n}\n```"
+  },
+  "f601b59bbcd8a312276f54f92e1984c87a5d95cc3703928f716b0eb977c8aa43": {
+    "topic": "flow_states_workplace",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking knowledge about implementing flow conditions in teams, asking analytical questions about mechanisms and metrics",
+    "raw_response": "```json\n{\n  \"topic\": \"flow states workplace\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking knowledge about implementing flow conditions in teams, asking analytical questions about mechanisms and metrics\"\n}\n```"
+  },
+  "7acabdfc440eb6a10977ae4a953b5f11eaf20a4962df8e47e80e95d135709ca9": {
+    "topic": "video_call_etiquette",
+    "intent": "fact_finding",
+    "confidence": 0.92,
+    "rationale": "User seeking professional advice for handling technical issues during video calls",
+    "raw_response": "```json\n{\n  \"topic\": \"video call etiquette\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User seeking professional advice for handling technical issues during video calls\"\n}\n```"
+  },
+  "9cc996aed726fe947621cdf88be9ddc769bbcd2ccd6c8570a4a865b2302fb1e2": {
+    "topic": "ringtone_psychology",
+    "intent": "generative",
+    "confidence": 0.92,
+    "rationale": "User developing lesson plan, requesting discussion questions and activities",
+    "raw_response": "```json\n{\n  \"topic\": \"Ringtone Psychology\",\n  \"intent\": \"generative\",\n  \"confidence\": 0.92,\n  \"rationale\": \"User developing lesson plan, requesting discussion questions and activities\"\n}\n```"
+  },
+  "60221c0b04da3e5c2f765e95091fc3c5d5340e94bfce2da472308643726f5582": {
+    "topic": "elevator_social_norms",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "Student researching sociology paper, seeking information and academic guidance on elevator etiquette",
+    "raw_response": "```json\n{\n  \"topic\": \"Elevator Social Norms\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"Student researching sociology paper, seeking information and academic guidance on elevator etiquette\"\n}\n```"
+  },
+  "02f3a404656af8ee5a19179b384bbb55dc71e3479152b02fe0a99df062231914": {
+    "topic": "zero-knowledge_proofs_presentation",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeks explanations, examples, and resources for understanding ZKPs, not content generation",
+    "raw_response": "```json\n{\n  \"topic\": \"zero-knowledge proofs presentation\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeks explanations, examples, and resources for understanding ZKPs, not content generation\"\n}\n```"
+  },
+  "b7e213008dd4804b2c3a390c72b7f90eb67adf25d52974b55562ded6f8ff4a1e": {
+    "topic": "ergonomic_workspace_setup",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "User seeking practical advice and information about workspace ergonomics",
+    "raw_response": "```json\n{\n  \"topic\": \"Ergonomic Workspace Setup\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"User seeking practical advice and information about workspace ergonomics\"\n}\n```"
+  },
+  "566fec321933519f60a0f92bbd06b3269578af15183bd92860dac23ed934c838": {
+    "topic": "filter_bubbles",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User seeking explanation of concept and its implications for their business practice",
+    "raw_response": "```json\n{\n  \"topic\": \"filter bubbles\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User seeking explanation of concept and its implications for their business practice\"\n}\n```"
+  },
+  "f0d26bba31472ecf3f69ec77394ed1c8e845f2e3b6319029668c1ecbf718f041": {
+    "topic": "reentry_employment_counseling",
+    "intent": "fact_finding",
+    "confidence": 0.95,
+    "rationale": "Career counselor seeking concrete strategies, resources, and programs for clients with criminal backgrounds",
+    "raw_response": "```json\n{\n  \"topic\": \"reentry employment counseling\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.95,\n  \"rationale\": \"Career counselor seeking concrete strategies, resources, and programs for clients with criminal backgrounds\"\n}\n```"
+  },
+  "4b06732afd040685f581aa9a2011737eb2d2771fb0e0e583c542dd061f209e9f": {
+    "topic": "autocorrect_problems",
+    "intent": "fact_finding",
+    "confidence": 0.85,
+    "rationale": "User researching autocorrect issues, seeking understanding of technical problems and market opportunities",
+    "raw_response": "```json\n{\n  \"topic\": \"Autocorrect Problems\",\n  \"intent\": \"fact_finding\",\n  \"confidence\": 0.85,\n  \"rationale\": \"User researching autocorrect issues, seeking understanding of technical problems and market opportunities\"\n}\n```"
+  }
+}

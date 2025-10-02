@@ -1,0 +1,62 @@
+{
+  "generated_at": "2025-10-02T18:18:52.363357",
+  "total_conversations": 60,
+  "average_messages": 13.9,
+  "average_character_count": 3005.2,
+  "median_duration_seconds": 2263.5,
+  "conversation_type_distribution": {
+    "quick_qna": 7,
+    "multi_turn_help": 20,
+    "deep_dive_dialogue": 33
+  },
+  "top_topics": [
+    [
+      "smartphone_purchase_advice",
+      1
+    ],
+    [
+      "meeting_conflict_management",
+      1
+    ],
+    [
+      "road_trip_playlist",
+      1
+    ],
+    [
+      "social_media_emotional_impact",
+      1
+    ],
+    [
+      "open_office_focus_strategies",
+      1
+    ],
+    [
+      "persuasive_design_ethics",
+      1
+    ],
+    [
+      "remote_work_noise_solutions",
+      1
+    ],
+    [
+      "printer_repair_hobby",
+      1
+    ],
+    [
+      "video_meeting_small_talk",
+      1
+    ],
+    [
+      "notification_management",
+      1
+    ]
+  ],
+  "intent_distribution": {
+    "generative": 15,
+    "fact_finding": 45
+  },
+  "action_items": [
+    "Consider expanding context window for long-form dialogues",
+    "Improve knowledge retrieval and factual grounding"
+  ]
+}
